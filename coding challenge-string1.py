@@ -1,3 +1,4 @@
+# code to count number of vowels and consonants in a string
 str = input("Enter a string : ")
 str = str.lower()
 len = len(str)
