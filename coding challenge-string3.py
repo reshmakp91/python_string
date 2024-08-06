@@ -1,3 +1,4 @@
+# remove duplicate characters in a string
 str = input("Enter a string : ")
 newstr = ""
 for ch in str:
